@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 3,
+  "totalSolved": 6,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-08-13",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 3,
+    "medium": 4,
     "hard": 1,
     "basic": 0
   },
@@ -15,15 +15,16 @@
     "LeetCode_Triangle": true,
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_Partition_Equal_Subset_Sum": true,
-    "LeetCode_Partition_Array_Into_Two_Arrays_to_Minimize_Sum_Difference": true
+    "LeetCode_Partition_Array_Into_Two_Arrays_to_Minimize_Sum_Difference": true,
+    "LeetCode_Nth_Highest_Salary": true
   },
   "activityHistory": {
     "2026-08-11": 1,
     "2026-08-12": 2,
-    "2026-08-13": 2
+    "2026-08-13": 2,
+    "2026-08-15": 1
   },
   "todayProblems": [
-    "Partition Equal Subset Sum",
-    "Partition Array Into Two Arrays to Minimize Sum Difference"
+    "Nth Highest Salary"
   ]
 }
