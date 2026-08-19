@@ -8,3 +8,4 @@
 | 6 | [Nth Highest Salary](./LeetCode/Medium/Nth%20Highest%20Salary) | [LeetCode](https://leetcode.com/problems/nth-highest-salary/) | Medium | 15 Aug 2026 | 11:33 am |
 | 7 | [Target Sum](./LeetCode/Medium/Target%20Sum) | [LeetCode](https://leetcode.com/problems/target-sum/) | Medium | 19 Aug 2026 | 10:39 pm |
 | 8 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 19 Aug 2026 | 11:11 pm |
+| 9 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 19 Aug 2026 | 11:38 pm |
