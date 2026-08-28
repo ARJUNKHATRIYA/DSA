@@ -11,3 +11,4 @@
 | 9 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 19 Aug 2026 | 11:38 pm |
 | 10 | [Rod Cutting](./GeeksForGeeks/Medium/Rod%20Cutting) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | Medium | 20 Aug 2026 | 04:39 pm |
 | 11 | [Minimum Number of Refueling Stops](./LeetCode/Hard/Minimum%20Number%20of%20Refueling%20Stops) | [LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | 28 Aug 2026 | 02:37 pm |
+| 12 | [Longest Palindromic Subsequence](./LeetCode/Medium/Longest%20Palindromic%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | 28 Aug 2026 | 03:24 pm |
