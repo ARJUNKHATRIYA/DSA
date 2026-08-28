@@ -12,3 +12,4 @@
 | 10 | [Rod Cutting](./GeeksForGeeks/Medium/Rod%20Cutting) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | Medium | 20 Aug 2026 | 04:39 pm |
 | 11 | [Minimum Number of Refueling Stops](./LeetCode/Hard/Minimum%20Number%20of%20Refueling%20Stops) | [LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | 28 Aug 2026 | 02:37 pm |
 | 12 | [Longest Palindromic Subsequence](./LeetCode/Medium/Longest%20Palindromic%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | 28 Aug 2026 | 03:24 pm |
+| 13 | [Minimum Insertion Steps to Make a String Palindrome](./LeetCode/Hard/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome) | [LeetCode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | 28 Aug 2026 | 03:42 pm |
