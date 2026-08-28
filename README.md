@@ -14,3 +14,4 @@
 | 12 | [Longest Palindromic Subsequence](./LeetCode/Medium/Longest%20Palindromic%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | 28 Aug 2026 | 03:24 pm |
 | 13 | [Minimum Insertion Steps to Make a String Palindrome](./LeetCode/Hard/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome) | [LeetCode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | 28 Aug 2026 | 03:42 pm |
 | 14 | [Delete Operation for Two Strings](./LeetCode/Medium/Delete%20Operation%20for%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | 28 Aug 2026 | 03:54 pm |
+| 15 | [Shortest Common Supersequence ](./LeetCode/Hard/Shortest%20Common%20Supersequence%20) | [LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | 28 Aug 2026 | 04:38 pm |
