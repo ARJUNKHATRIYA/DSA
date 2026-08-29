@@ -17,3 +17,4 @@
 | 15 | [Shortest Common Supersequence ](./LeetCode/Hard/Shortest%20Common%20Supersequence%20) | [LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | 28 Aug 2026 | 04:38 pm |
 | 16 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 28 Aug 2026 | 06:55 pm |
 | 17 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 28 Aug 2026 | 07:47 pm |
+| 18 | [Wildcard Matching](./LeetCode/Hard/Wildcard%20Matching) | [LeetCode](https://leetcode.com/problems/wildcard-matching/) | Hard | 29 Aug 2026 | 02:59 pm |
