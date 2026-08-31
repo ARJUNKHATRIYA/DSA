@@ -24,3 +24,4 @@
 | 22 | [Best Time to Buy and Sell Stock with Cooldown](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | 29 Aug 2026 | 11:31 pm |
 | 23 | [Best Time to Buy and Sell Stock with Transaction Fee](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | 30 Aug 2026 | 03:59 pm |
 | 24 | [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 31 Aug 2026 | 11:33 am |
+| 25 | [Task Scheduler](./LeetCode/Medium/Task%20Scheduler) | [LeetCode](https://leetcode.com/problems/task-scheduler/) | Medium | 31 Aug 2026 | 07:57 pm |
