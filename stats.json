@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 15,
+    "medium": 16,
     "hard": 9,
     "basic": 0
   },
@@ -35,7 +35,8 @@
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee": true,
     "LeetCode_Merge_k_Sorted_Lists": true,
-    "LeetCode_Task_Scheduler": true
+    "LeetCode_Task_Scheduler": true,
+    "LeetCode_Hand_of_Straights": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -47,10 +48,11 @@
     "2026-08-28": 7,
     "2026-08-29": 5,
     "2026-08-30": 1,
-    "2026-08-31": 2
+    "2026-08-31": 3
   },
   "todayProblems": [
     "Merge k Sorted Lists",
-    "Task Scheduler"
+    "Task Scheduler",
+    "Hand of Straights"
   ]
 }
