@@ -27,3 +27,4 @@
 | 25 | [Task Scheduler](./LeetCode/Medium/Task%20Scheduler) | [LeetCode](https://leetcode.com/problems/task-scheduler/) | Medium | 31 Aug 2026 | 07:57 pm |
 | 26 | [Hand of Straights](./LeetCode/Medium/Hand%20of%20Straights) | [LeetCode](https://leetcode.com/problems/hand-of-straights/) | Medium | 31 Aug 2026 | 09:59 pm |
 | 27 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) | [LeetCode](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | 31 Aug 2026 | 10:28 pm |
+| 28 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 31 Aug 2026 | 10:35 pm |
