@@ -28,3 +28,4 @@
 | 26 | [Hand of Straights](./LeetCode/Medium/Hand%20of%20Straights) | [LeetCode](https://leetcode.com/problems/hand-of-straights/) | Medium | 31 Aug 2026 | 09:59 pm |
 | 27 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) | [LeetCode](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | 31 Aug 2026 | 10:28 pm |
 | 28 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 31 Aug 2026 | 10:35 pm |
+| 29 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 01 Sept 2026 | 10:34 am |
