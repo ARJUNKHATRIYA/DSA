@@ -1,12 +1,12 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 19,
+    "medium": 20,
     "hard": 9,
     "basic": 0
   },
@@ -39,7 +39,8 @@
     "LeetCode_Hand_of_Straights": true,
     "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
     "LeetCode_Top_K_Frequent_Elements": true,
-    "LeetCode_Next_Greater_Element_II": true
+    "LeetCode_Next_Greater_Element_II": true,
+    "LeetCode_Sum_of_Subarray_Minimums": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -52,9 +53,10 @@
     "2026-08-29": 5,
     "2026-08-30": 1,
     "2026-08-31": 5,
-    "2026-09-01": 1
+    "2026-09-01": 2
   },
   "todayProblems": [
-    "Next Greater Element II"
+    "Next Greater Element II",
+    "Sum of Subarray Minimums"
   ]
 }
