@@ -33,3 +33,4 @@
 | 31 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 01 Sept 2026 | 10:28 pm |
 | 32 | [Sum of Subarray Ranges](./LeetCode/Medium/Sum%20of%20Subarray%20Ranges) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | 01 Sept 2026 | 11:05 pm |
 | 33 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 02:42 pm |
+| 34 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 02 Sept 2026 | 03:20 pm |
