@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 23,
+    "medium": 24,
     "hard": 11,
     "basic": 0
   },
@@ -47,7 +47,8 @@
     "LeetCode_Remove_K_Digits": true,
     "LeetCode_Largest_Rectangle_in_Histogram": true,
     "LeetCode_Maximal_Rectangle": true,
-    "LeetCode_Smallest_Stable_Index_I": true
+    "LeetCode_Smallest_Stable_Index_I": true,
+    "LeetCode_Smallest_Stable_Index_II": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -63,9 +64,10 @@
     "2026-09-01": 4,
     "2026-09-02": 3,
     "2026-09-04": 1,
-    "2026-09-05": 1
+    "2026-09-05": 2
   },
   "todayProblems": [
-    "Smallest Stable Index I"
+    "Smallest Stable Index I",
+    "Smallest Stable Index II"
   ]
 }
