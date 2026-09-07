@@ -38,3 +38,4 @@
 | 36 | [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) | Hard | 04 Sept 2026 | 09:10 pm |
 | 37 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 05 Sept 2026 | 07:41 pm |
 | 38 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 07:43 pm |
+| 39 | [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) | [LeetCode](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 07 Sept 2026 | 11:11 pm |
