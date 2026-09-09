@@ -40,3 +40,4 @@
 | 38 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 07:43 pm |
 | 39 | [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) | [LeetCode](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 07 Sept 2026 | 11:11 pm |
 | 40 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:48 pm |
+| 41 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 07:06 pm |
