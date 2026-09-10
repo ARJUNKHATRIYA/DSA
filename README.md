@@ -41,3 +41,4 @@
 | 39 | [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) | [LeetCode](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 07 Sept 2026 | 11:11 pm |
 | 40 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:48 pm |
 | 41 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 07:06 pm |
+| 42 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 10:27 pm |
