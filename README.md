@@ -42,3 +42,4 @@
 | 40 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:48 pm |
 | 41 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 07:06 pm |
 | 42 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 10:27 pm |
+| 43 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 05:06 pm |
