@@ -1,12 +1,12 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-09-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 28,
+    "medium": 29,
     "hard": 12,
     "basic": 0
   },
@@ -55,7 +55,8 @@
     "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true,
     "LeetCode_Unique_3-Digit_Even_Numbers": true,
     "GeeksForGeeks_Longest_Subarray_with_Sum_K": true,
-    "LeetCode_Fruit_Into_Baskets": true
+    "LeetCode_Fruit_Into_Baskets": true,
+    "LeetCode_Longest_Repeating_Character_Replacement": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -77,10 +78,11 @@
     "2026-09-09": 1,
     "2026-09-10": 1,
     "2026-09-11": 1,
-    "2026-09-12": 2
+    "2026-09-12": 3
   },
   "todayProblems": [
     "Longest Subarray with Sum K",
-    "Fruit Into Baskets"
+    "Fruit Into Baskets",
+    "Longest Repeating Character Replacement"
   ]
 }
