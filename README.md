@@ -46,3 +46,4 @@
 | 44 | [Longest Subarray with Sum K](./GeeksForGeeks/Medium/Longest%20Subarray%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | Medium | 12 Sept 2026 | 04:12 pm |
 | 45 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 12 Sept 2026 | 10:28 pm |
 | 46 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 12 Sept 2026 | 11:39 pm |
+| 47 | [Binary Subarrays With Sum](./LeetCode/Medium/Binary%20Subarrays%20With%20Sum) | [LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | 13 Sept 2026 | 01:02 am |
