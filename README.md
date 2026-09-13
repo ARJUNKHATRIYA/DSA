@@ -47,3 +47,4 @@
 | 45 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 12 Sept 2026 | 10:28 pm |
 | 46 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 12 Sept 2026 | 11:39 pm |
 | 47 | [Binary Subarrays With Sum](./LeetCode/Medium/Binary%20Subarrays%20With%20Sum) | [LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | 13 Sept 2026 | 01:02 am |
+| 48 | [Count Number of Nice Subarrays](./LeetCode/Medium/Count%20Number%20of%20Nice%20Subarrays) | [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | 13 Sept 2026 | 07:15 pm |
