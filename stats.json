@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-09-13",
-  "todayCount": 2,
+  "totalSolved": 49,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-09-14",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 31,
+    "medium": 32,
     "hard": 12,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "LeetCode_Fruit_Into_Baskets": true,
     "LeetCode_Longest_Repeating_Character_Replacement": true,
     "LeetCode_Binary_Subarrays_With_Sum": true,
-    "LeetCode_Count_Number_of_Nice_Subarrays": true
+    "LeetCode_Count_Number_of_Nice_Subarrays": true,
+    "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -81,10 +82,10 @@
     "2026-09-10": 1,
     "2026-09-11": 1,
     "2026-09-12": 3,
-    "2026-09-13": 2
+    "2026-09-13": 2,
+    "2026-09-14": 1
   },
   "todayProblems": [
-    "Binary Subarrays With Sum",
-    "Count Number of Nice Subarrays"
+    "Number of Substrings Containing All Three Characters"
   ]
 }

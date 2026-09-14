@@ -48,3 +48,4 @@
 | 46 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 12 Sept 2026 | 11:39 pm |
 | 47 | [Binary Subarrays With Sum](./LeetCode/Medium/Binary%20Subarrays%20With%20Sum) | [LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | 13 Sept 2026 | 01:02 am |
 | 48 | [Count Number of Nice Subarrays](./LeetCode/Medium/Count%20Number%20of%20Nice%20Subarrays) | [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | 13 Sept 2026 | 07:15 pm |
+| 49 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 14 Sept 2026 | 07:10 pm |
