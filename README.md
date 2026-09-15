@@ -52,3 +52,4 @@
 | 50 | [Maximum Points You Can Obtain from Cards](./LeetCode/Medium/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards) | [LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Medium | 15 Sept 2026 | 03:58 pm |
 | 51 | [Subarrays with K Different Integers](./LeetCode/Hard/Subarrays%20with%20K%20Different%20Integers) | [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | 15 Sept 2026 | 04:52 pm |
 | 52 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 15 Sept 2026 | 07:13 pm |
+| 53 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 16 Sept 2026 | 12:01 am |
