@@ -50,3 +50,4 @@
 | 48 | [Count Number of Nice Subarrays](./LeetCode/Medium/Count%20Number%20of%20Nice%20Subarrays) | [LeetCode](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | 13 Sept 2026 | 07:15 pm |
 | 49 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 14 Sept 2026 | 07:10 pm |
 | 50 | [Maximum Points You Can Obtain from Cards](./LeetCode/Medium/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards) | [LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | Medium | 15 Sept 2026 | 03:58 pm |
+| 51 | [Subarrays with K Different Integers](./LeetCode/Hard/Subarrays%20with%20K%20Different%20Integers) | [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | 15 Sept 2026 | 04:52 pm |

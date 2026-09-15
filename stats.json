@@ -1,13 +1,13 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
     "medium": 33,
-    "hard": 12,
+    "hard": 13,
     "basic": 0
   },
   "syncedProblems": {
@@ -60,7 +60,8 @@
     "LeetCode_Binary_Subarrays_With_Sum": true,
     "LeetCode_Count_Number_of_Nice_Subarrays": true,
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
-    "LeetCode_Maximum_Points_You_Can_Obtain_from_Cards": true
+    "LeetCode_Maximum_Points_You_Can_Obtain_from_Cards": true,
+    "LeetCode_Subarrays_with_K_Different_Integers": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -85,9 +86,10 @@
     "2026-09-12": 3,
     "2026-09-13": 2,
     "2026-09-14": 1,
-    "2026-09-15": 1
+    "2026-09-15": 2
   },
   "todayProblems": [
-    "Maximum Points You Can Obtain from Cards"
+    "Maximum Points You Can Obtain from Cards",
+    "Subarrays with K Different Integers"
   ]
 }
