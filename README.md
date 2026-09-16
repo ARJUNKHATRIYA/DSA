@@ -55,3 +55,4 @@
 | 53 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 16 Sept 2026 | 12:01 am |
 | 54 | [Maximum Meetings in One Room](./GeeksForGeeks/Medium/Maximum%20Meetings%20in%20One%20Room) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1) | Medium | 16 Sept 2026 | 12:43 am |
 | 55 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 16 Sept 2026 | 12:07 pm |
+| 56 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 16 Sept 2026 | 10:01 pm |
