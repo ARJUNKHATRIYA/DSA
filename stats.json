@@ -1,12 +1,12 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 37,
+    "medium": 38,
     "hard": 15,
     "basic": 0
   },
@@ -67,7 +67,8 @@
     "GeeksForGeeks_Maximum_Meetings_in_One_Room": true,
     "LeetCode_Jump_Game": true,
     "LeetCode_Jump_Game_II": true,
-    "LeetCode_Candy": true
+    "LeetCode_Candy": true,
+    "GeeksForGeeks_Shortest_Job_first": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -94,9 +95,10 @@
     "2026-09-14": 1,
     "2026-09-15": 3,
     "2026-09-16": 4,
-    "2026-09-17": 1
+    "2026-09-17": 2
   },
   "todayProblems": [
-    "Candy"
+    "Candy",
+    "Shortest Job first"
   ]
 }
