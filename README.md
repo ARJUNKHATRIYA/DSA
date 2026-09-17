@@ -58,3 +58,4 @@
 | 56 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 16 Sept 2026 | 10:01 pm |
 | 57 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 17 Sept 2026 | 10:33 am |
 | 58 | [Shortest Job first](./GeeksForGeeks/Medium/Shortest%20Job%20first) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | 17 Sept 2026 | 11:00 am |
+| 59 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 17 Sept 2026 | 07:04 pm |
