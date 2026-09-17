@@ -60,3 +60,4 @@
 | 58 | [Shortest Job first](./GeeksForGeeks/Medium/Shortest%20Job%20first) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | 17 Sept 2026 | 11:00 am |
 | 59 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 17 Sept 2026 | 07:04 pm |
 | 60 | [Non-overlapping Intervals](./LeetCode/Medium/Non-overlapping%20Intervals) | [LeetCode](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | 17 Sept 2026 | 07:45 pm |
+| 61 | [Path Sum](./LeetCode/Easy/Path%20Sum) | [LeetCode](https://leetcode.com/problems/path-sum/) | Easy | 18 Sept 2026 | 01:28 am |
