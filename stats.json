@@ -1,13 +1,13 @@
 {
-  "totalSolved": 61,
+  "totalSolved": 62,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
     "medium": 40,
-    "hard": 15,
+    "hard": 16,
     "basic": 0
   },
   "syncedProblems": {
@@ -71,7 +71,8 @@
     "GeeksForGeeks_Shortest_Job_first": true,
     "LeetCode_Insert_Interval": true,
     "LeetCode_Non-overlapping_Intervals": true,
-    "LeetCode_Path_Sum": true
+    "LeetCode_Path_Sum": true,
+    "LeetCode_Vertical_Order_Traversal_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -99,9 +100,10 @@
     "2026-09-15": 3,
     "2026-09-16": 4,
     "2026-09-17": 4,
-    "2026-09-18": 1
+    "2026-09-18": 2
   },
   "todayProblems": [
-    "Path Sum"
+    "Path Sum",
+    "Vertical Order Traversal of a Binary Tree"
   ]
 }
