@@ -70,3 +70,4 @@
 | 68 | [Binary Tree Paths](./LeetCode/Easy/Binary%20Tree%20Paths) | [LeetCode](https://leetcode.com/problems/binary-tree-paths/) | Easy | 21 Sept 2026 | 04:06 pm |
 | 69 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 21 Sept 2026 | 04:42 pm |
 | 70 | [Maximum Width of Binary Tree](./LeetCode/Medium/Maximum%20Width%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | 21 Sept 2026 | 07:26 pm |
+| 71 | [All Nodes Distance K in Binary Tree](./LeetCode/Medium/All%20Nodes%20Distance%20K%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | 22 Sept 2026 | 12:28 am |
