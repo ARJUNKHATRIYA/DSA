@@ -65,3 +65,4 @@
 | 63 | [Top View of Binary Tree](./GeeksForGeeks/Medium/Top%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Medium | 19 Sept 2026 | 10:33 pm |
 | 64 | [Bottom View of Binary Tree](./GeeksForGeeks/Medium/Bottom%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | Medium | 19 Sept 2026 | 11:23 pm |
 | 65 | [Binary Tree Right Side View](./LeetCode/Medium/Binary%20Tree%20Right%20Side%20View) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 19 Sept 2026 | 11:35 pm |
+| 66 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 21 Sept 2026 | 02:40 pm |
