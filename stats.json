@@ -1,12 +1,12 @@
 {
-  "totalSolved": 68,
+  "totalSolved": 69,
   "currentStreak": 1,
   "maxStreak": 13,
   "lastSyncDate": "2026-09-21",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 44,
+    "medium": 45,
     "hard": 16,
     "basic": 0
   },
@@ -78,7 +78,8 @@
     "LeetCode_Binary_Tree_Right_Side_View": true,
     "LeetCode_Symmetric_Tree": true,
     "GeeksForGeeks_Children_Sum_in_a_Binary_Tree": true,
-    "LeetCode_Binary_Tree_Paths": true
+    "LeetCode_Binary_Tree_Paths": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -108,11 +109,12 @@
     "2026-09-17": 4,
     "2026-09-18": 2,
     "2026-09-19": 3,
-    "2026-09-21": 3
+    "2026-09-21": 4
   },
   "todayProblems": [
     "Symmetric Tree",
     "Children Sum in a Binary Tree",
-    "Binary Tree Paths"
+    "Binary Tree Paths",
+    "Lowest Common Ancestor of a Binary Tree"
   ]
 }
