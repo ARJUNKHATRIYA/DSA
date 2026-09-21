@@ -69,3 +69,4 @@
 | 67 | [Children Sum in a Binary Tree](./GeeksForGeeks/Medium/Children%20Sum%20in%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | Medium | 21 Sept 2026 | 03:06 pm |
 | 68 | [Binary Tree Paths](./LeetCode/Easy/Binary%20Tree%20Paths) | [LeetCode](https://leetcode.com/problems/binary-tree-paths/) | Easy | 21 Sept 2026 | 04:06 pm |
 | 69 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 21 Sept 2026 | 04:42 pm |
+| 70 | [Maximum Width of Binary Tree](./LeetCode/Medium/Maximum%20Width%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | 21 Sept 2026 | 07:26 pm |
