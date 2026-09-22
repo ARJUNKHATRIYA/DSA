@@ -73,3 +73,4 @@
 | 71 | [All Nodes Distance K in Binary Tree](./LeetCode/Medium/All%20Nodes%20Distance%20K%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | 22 Sept 2026 | 12:28 am |
 | 72 | [Amount of Time for Binary Tree to Be Infected](./LeetCode/Medium/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected) | [LeetCode](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | 22 Sept 2026 | 12:55 am |
 | 73 | [Count Complete Tree Nodes](./LeetCode/Medium/Count%20Complete%20Tree%20Nodes) | [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | 22 Sept 2026 | 06:43 pm |
+| 74 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 22 Sept 2026 | 07:04 pm |
