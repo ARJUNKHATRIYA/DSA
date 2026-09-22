@@ -79,3 +79,4 @@
 | 77 | [Serialize and Deserialize Binary Tree](./LeetCode/Hard/Serialize%20and%20Deserialize%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | 22 Sept 2026 | 11:10 pm |
 | 78 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 22 Sept 2026 | 11:29 pm |
 | 79 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 23 Sept 2026 | 02:07 am |
+| 80 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 23 Sept 2026 | 02:24 am |
