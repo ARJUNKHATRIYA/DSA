@@ -1,12 +1,12 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 3,
   "maxStreak": 13,
   "lastSyncDate": "2026-09-23",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 56,
+    "medium": 57,
     "hard": 17,
     "basic": 0
   },
@@ -94,7 +94,8 @@
     "GeeksForGeeks_Minimum_in_BST": true,
     "LeetCode_Delete_Node_in_a_BST": true,
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
-    "LeetCode_Validate_Binary_Search_Tree": true
+    "LeetCode_Validate_Binary_Search_Tree": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -126,7 +127,7 @@
     "2026-09-19": 3,
     "2026-09-21": 5,
     "2026-09-22": 8,
-    "2026-09-23": 6
+    "2026-09-23": 7
   },
   "todayProblems": [
     "Search in a Binary Search Tree",
@@ -134,6 +135,7 @@
     "Minimum in BST",
     "Delete Node in a BST",
     "Kth Smallest Element in a BST",
-    "Validate Binary Search Tree"
+    "Validate Binary Search Tree",
+    "Lowest Common Ancestor of a Binary Search Tree"
   ]
 }
