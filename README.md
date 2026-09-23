@@ -82,3 +82,4 @@
 | 80 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 23 Sept 2026 | 02:24 am |
 | 81 | [Minimum in BST](./GeeksForGeeks/Easy/Minimum%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | Easy | 23 Sept 2026 | 03:39 pm |
 | 82 | [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | 23 Sept 2026 | 04:37 pm |
+| 83 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 23 Sept 2026 | 06:30 pm |
