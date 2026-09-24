@@ -89,3 +89,4 @@
 | 87 | [Predecessor and Successor in BST](./GeeksForGeeks/Medium/Predecessor%20and%20Successor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | Medium | 23 Sept 2026 | 09:59 pm |
 | 88 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 23 Sept 2026 | 10:18 pm |
 | 89 | [Largest BST Subtree](./GeeksForGeeks/Hard/Largest%20BST%20Subtree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-bst/1) | Hard | 24 Sept 2026 | 11:34 am |
+| 90 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 11:41 am |
