@@ -90,3 +90,4 @@
 | 88 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 23 Sept 2026 | 10:18 pm |
 | 89 | [Largest BST Subtree](./GeeksForGeeks/Hard/Largest%20BST%20Subtree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-bst/1) | Hard | 24 Sept 2026 | 11:34 am |
 | 90 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 11:41 am |
+| 91 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 24 Sept 2026 | 11:53 am |

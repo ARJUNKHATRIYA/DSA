@@ -1,12 +1,12 @@
 {
-  "totalSolved": 90,
+  "totalSolved": 91,
   "currentStreak": 4,
   "maxStreak": 13,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 59,
+    "medium": 60,
     "hard": 18,
     "basic": 0
   },
@@ -100,7 +100,8 @@
     "GeeksForGeeks_Predecessor_and_Successor_in_BST": true,
     "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true,
     "GeeksForGeeks_Largest_BST_Subtree": true,
-    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
+    "LeetCode_Recover_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -133,10 +134,11 @@
     "2026-09-21": 5,
     "2026-09-22": 8,
     "2026-09-23": 10,
-    "2026-09-24": 2
+    "2026-09-24": 3
   },
   "todayProblems": [
     "Largest BST Subtree",
-    "Smallest Index With Digit Sum Equal to Index"
+    "Smallest Index With Digit Sum Equal to Index",
+    "Recover Binary Search Tree"
   ]
 }
