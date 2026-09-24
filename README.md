@@ -88,3 +88,4 @@
 | 86 | [Construct Binary Search Tree from Preorder Traversal](./LeetCode/Medium/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | 23 Sept 2026 | 07:46 pm |
 | 87 | [Predecessor and Successor in BST](./GeeksForGeeks/Medium/Predecessor%20and%20Successor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | Medium | 23 Sept 2026 | 09:59 pm |
 | 88 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 23 Sept 2026 | 10:18 pm |
+| 89 | [Largest BST Subtree](./GeeksForGeeks/Hard/Largest%20BST%20Subtree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-bst/1) | Hard | 24 Sept 2026 | 11:34 am |
