@@ -94,3 +94,4 @@
 | 92 | [Print GFG n times](./GeeksForGeeks/Basic/Print%20GFG%20n%20times) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | Basic | 17 Oct 2026 | 11:15 pm |
 | 93 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | Basic | 17 Oct 2026 | 11:19 pm |
 | 94 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 17 Oct 2026 | 11:33 pm |
+| 95 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 17 Oct 2026 | 11:43 pm |
