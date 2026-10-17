@@ -1,14 +1,14 @@
 {
-  "totalSolved": 92,
+  "totalSolved": 93,
   "currentStreak": 1,
   "maxStreak": 13,
   "lastSyncDate": "2026-10-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
     "medium": 60,
     "hard": 18,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "LeetCode_Minimum_Path_Sum": true,
@@ -102,7 +102,8 @@
     "GeeksForGeeks_Largest_BST_Subtree": true,
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Recover_Binary_Search_Tree": true,
-    "GeeksForGeeks_Print_GFG_n_times": true
+    "GeeksForGeeks_Print_GFG_n_times": true,
+    "GeeksForGeeks_Print_n_to_1_Without_Loop": true
   },
   "activityHistory": {
     "2026-08-11": 1,
@@ -136,9 +137,10 @@
     "2026-09-22": 8,
     "2026-09-23": 10,
     "2026-09-24": 3,
-    "2026-10-17": 1
+    "2026-10-17": 2
   },
   "todayProblems": [
-    "Print GFG n times"
+    "Print GFG n times",
+    "Print n to 1 Without Loop"
   ]
 }
