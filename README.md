@@ -91,3 +91,4 @@
 | 89 | [Largest BST Subtree](./GeeksForGeeks/Hard/Largest%20BST%20Subtree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-bst/1) | Hard | 24 Sept 2026 | 11:34 am |
 | 90 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 11:41 am |
 | 91 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 24 Sept 2026 | 11:53 am |
+| 92 | [Print GFG n times](./GeeksForGeeks/Basic/Print%20GFG%20n%20times) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | Basic | 17 Oct 2026 | 11:15 pm |
